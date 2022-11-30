@@ -347,7 +347,7 @@ header .fa-bars{
 
   .blog .container .row{
     flex-direction: column;
-    width: 330px; 
+    width: 370px; 
     align-items: center;
     justify-content: center;
   }
